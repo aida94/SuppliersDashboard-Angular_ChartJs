@@ -1,0 +1,6002 @@
+[
+  {
+    "ID": "1059278",
+    "Supplier name": "קוסט פורר גבאי את קסירר",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "42318.9",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059280",
+    "Supplier name": "אי.אר.בי. פיננשל גרופ בע\"מ",
+    "Document Date": "24/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "48087",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059282",
+    "Supplier name": "Amazon.com",
+    "Document Date": "27/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "1323.94",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059337",
+    "Supplier name": "Google Inc.",
+    "Document Date": "06/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059338",
+    "Supplier name": "Google Inc.",
+    "Document Date": "20/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059339",
+    "Supplier name": "Google Inc.",
+    "Document Date": "14/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059340",
+    "Supplier name": "Google Inc.",
+    "Document Date": "07/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059343",
+    "Supplier name": "Google Inc.",
+    "Document Date": "06/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059348",
+    "Supplier name": "Google Inc.",
+    "Document Date": "28/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059349",
+    "Supplier name": "Google Inc.",
+    "Document Date": "27/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059350",
+    "Supplier name": "Google Inc.",
+    "Document Date": "06/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059351",
+    "Supplier name": "Google Inc.",
+    "Document Date": "04/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059356",
+    "Supplier name": "Google Inc.",
+    "Document Date": "26/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "39",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059359",
+    "Supplier name": "Google Inc.",
+    "Document Date": "13/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059362",
+    "Supplier name": "Google Inc.",
+    "Document Date": "21/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059367",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "09/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8265.86",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059369",
+    "Supplier name": "Google Inc.",
+    "Document Date": "24/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059370",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8716.06",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059373",
+    "Supplier name": "Google Inc.",
+    "Document Date": "10/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059380",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10136.05",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059381",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1978.83",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059385",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "23/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2644.31",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059386",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1971.81",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059387",
+    "Supplier name": "Mailchimp",
+    "Document Date": "13/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059388",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "09/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1888",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059389",
+    "Supplier name": "Mailchimp",
+    "Document Date": "09/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "95",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059395",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2604.14",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059396",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "23/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9246.51",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059398",
+    "Supplier name": "IDT Domestic Telecom, Inc.",
+    "Document Date": "10/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "10000",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "פ"
+  },
+  {
+    "ID": "1059406",
+    "Supplier name": "Mailchimp",
+    "Document Date": "27/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059407",
+    "Supplier name": "MET international",
+    "Document Date": "12/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "5712",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059409",
+    "Supplier name": "M2 מחשבים",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1000",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059416",
+    "Supplier name": "LeaseWeb Netherlands B.V",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.65",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059417",
+    "Supplier name": "Mailchimp",
+    "Document Date": "03/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059418",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "09/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "2887.06",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059419",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3124.84",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059425",
+    "Supplier name": "IP Telecom Bulgaria LTD",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "700",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059427",
+    "Supplier name": "Mailchimp",
+    "Document Date": "19/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059428",
+    "Supplier name": "Keymetrics",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "65",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059431",
+    "Supplier name": "IDT Domestic Telecom, Inc.",
+    "Document Date": "27/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20000",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059507",
+    "Supplier name": "tax-re החזרי מס",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1162.3",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059508",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "384",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059510",
+    "Supplier name": "Xero (NZ) Ltd",
+    "Document Date": "09/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059514",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10168.65",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059515",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "25/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3452",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059518",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2004.65",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059519",
+    "Supplier name": "opensips",
+    "Document Date": "04/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3000",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059521",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "15/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6328.88",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059522",
+    "Supplier name": "PICREEL LTD",
+    "Document Date": "07/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "69",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059525",
+    "Supplier name": "Ventatel Limited",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "76454.2",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059528",
+    "Supplier name": "אינטרספייס בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1045.4",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059529",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "15/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1649.32",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059531",
+    "Supplier name": "TollFreeForwarding.com",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1506.66",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059532",
+    "Supplier name": "אפיק מוצרי הדפסה בע\"מ",
+    "Document Date": "17/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "597",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059534",
+    "Supplier name": "Palo Alto Software, Inc.",
+    "Document Date": "16/07/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "19.95",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059536",
+    "Supplier name": "Wiservice.co.il",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "209.1",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059537",
+    "Supplier name": "Voxbone SA",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6412.85",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059542",
+    "Supplier name": "אודריקום בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "255.7",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059543",
+    "Supplier name": "אסי מוסך מהיר",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "700",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059544",
+    "Supplier name": "Voxbone SA",
+    "Document Date": "05/06/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20000",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059547",
+    "Supplier name": "Ventatel Limited",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3119.9",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059550",
+    "Supplier name": "Unfuddle LLC",
+    "Document Date": "20/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "69",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059553",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4493",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059554",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9477",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059556",
+    "Supplier name": "עיריית תל אביב יפו",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5858.22",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059562",
+    "Supplier name": "גיל חיים",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "194",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059565",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1755",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059570",
+    "Supplier name": "ג'מס מפעלי בירה בע\"מ",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2717",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059573",
+    "Supplier name": "דאלאס מוצרי נייר בע\"מ",
+    "Document Date": "18/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1188",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059576",
+    "Supplier name": "ג'מס מפעלי בירה בע\"מ",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1547",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059580",
+    "Supplier name": "גיא פורת",
+    "Document Date": "02/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "5314.31",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059582",
+    "Supplier name": "גמלא",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1562",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059585",
+    "Supplier name": "גטר גרופ בע\"מ",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "12506.83",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059587",
+    "Supplier name": "ביפר תקשורת בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1535",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059589",
+    "Supplier name": "גרובוט סמארטיק בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1930.5",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059591",
+    "Supplier name": "גב מערכות קול סנטר בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "861.71",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059592",
+    "Supplier name": "בזק בינלאומי בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "281.34",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059594",
+    "Supplier name": "בזק החברה הישראלית לתקשורת בע\"מ",
+    "Document Date": "25/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "766.65",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059599",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "11/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "147.42",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059600",
+    "Supplier name": "יורוטק טכנולוגיות ייצור ייבוא וייצוא בעמ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "139",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059601",
+    "Supplier name": "זיג זג שרותי דיוור ולוגיסטיקה בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3845.8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059603",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1578.33",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059606",
+    "Supplier name": "ח.כ דלתא פתרונות פיננסיים בע\"מ",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "321.75",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059607",
+    "Supplier name": "י.מ שבירו שירותי ייעוץ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1292",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059608",
+    "Supplier name": "יורם אלמוג",
+    "Document Date": "04/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "840",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059614",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "333871.23",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059615",
+    "Supplier name": "ח.כ דלתא פתרונות פיננסיים בע\"מ",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "321.75",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059616",
+    "Supplier name": "יוניסל פתרונות סלולאריים מתקדמים בע\"מ",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "35100",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059617",
+    "Supplier name": " וואן סמבה פתרונות מחישוב ותקשורת בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1615",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059622",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "274.95",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059623",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "147.42",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059624",
+    "Supplier name": "רחיצת רמת אביב מס.1 בע\"מ",
+    "Document Date": "18/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "314.36",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059625",
+    "Supplier name": "גטר גרופ בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3818.41",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059629",
+    "Supplier name": "דלק מנטה קמעונאות דרכים בע\"מ",
+    "Document Date": "23/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "38.27",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059630",
+    "Supplier name": "הזעקה האחרונה שמירה ומיגון בע\"מ",
+    "Document Date": "14/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "61",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059633",
+    "Supplier name": "י.פרל ושות' בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9203",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059636",
+    "Supplier name": "ח.כ דלתא פתרונות פיננסיים בע\"מ",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "321.75",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059637",
+    "Supplier name": "טריפל סי מחשוב ענן בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "555",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059638",
+    "Supplier name": "טמפו שווק (1981) בע\"מ",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1263.55",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059639",
+    "Supplier name": "טמפו שווק (1981) בע\"מ",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1263.55",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059645",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "566.2",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059646",
+    "Supplier name": "כוכבית פלוס *8077",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.6",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059647",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "13/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1743.3",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059648",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "02/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3963.38",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059669",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "11/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10.99",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059670",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9.85",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059675",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1667.03",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059676",
+    "Supplier name": "מאה הפקה והוצאה לאור",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "849",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059679",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1674.7",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059680",
+    "Supplier name": "לסה ויז'ן בע\"מ",
+    "Document Date": "15/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "398",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059685",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "11/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "122.85",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059688",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2567.55",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059691",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1712.8",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059692",
+    "Supplier name": "לב המשרד בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1470.95",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059697",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9.96",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059698",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1640.6",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059699",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "49.14",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059700",
+    "Supplier name": "לסה ויז'ן בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1556",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059707",
+    "Supplier name": "מי אביבים 2010 בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "238.11",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059708",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5279.3",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059709",
+    "Supplier name": "וויסנטר בע\"מ",
+    "Document Date": "21/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "490.37",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1059712",
+    "Supplier name": "מורנקס בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1406",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059713",
+    "Supplier name": "סורטקס פתרונות אינטרנט מתקדמים",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "792.53",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059714",
+    "Supplier name": "סייל פי סי",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3620",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059715",
+    "Supplier name": "מיננה בע\"מ",
+    "Document Date": "17/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "350",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059721",
+    "Supplier name": "מודולו מערכות תקשורת בע\"מ",
+    "Document Date": "18/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "796",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059722",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "25.77",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059723",
+    "Supplier name": "ש.מ עתיד הנדסת תוכנה בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3212",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059727",
+    "Supplier name": "מי אביבים 2010 בע\"מ",
+    "Document Date": "28/05/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "184.28",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "פ"
+  },
+  {
+    "ID": "1059728",
+    "Supplier name": "רי-גו מרקטינג בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4095",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059729",
+    "Supplier name": "ממסרית השקעות ופיננסים בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7605",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059730",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "02/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "21",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059731",
+    "Supplier name": "מהלב המרכז הישראלי לנגישות בתקשורת בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6552",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059737",
+    "Supplier name": " סלקום ישראל בע\"מ",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "107.01",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1059738",
+    "Supplier name": "ממסרית השקעות ופיננסים בע\"מ",
+    "Document Date": "24/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1078.34",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059739",
+    "Supplier name": "סייל פי סי",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1980",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059741",
+    "Supplier name": "עו\"דכנית בע\"מ",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "320.29",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059747",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.3",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059748",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "09/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1280.56",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059749",
+    "Supplier name": "Credimatch Software Ltd",
+    "Document Date": "25/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "468",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059752",
+    "Supplier name": "וויסנטר בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "118.09",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1059755",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "628.69",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059756",
+    "Supplier name": "שיפטאורגנייזר בע\"מ ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "293",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059757",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1597.53",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1059763",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "5.9",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059764",
+    "Supplier name": "CAR2GO",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1081.57",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1059765",
+    "Supplier name": "שטראוס מים בע\"מ",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3168",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1059771",
+    "Supplier name": "שטראוס מים בע\"מ",
+    "Document Date": "27/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3492",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059773",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "5.9",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059774",
+    "Supplier name": "שיפטאורגנייזר בע\"מ ",
+    "Document Date": "11/07/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "293",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1059777",
+    "Supplier name": "חברת פרטנר תקשורת בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "37680.33",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1060497",
+    "Supplier name": "דרך היין מרכז לתרבות היין",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "129.9",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1060500",
+    "Supplier name": "איתמר חכים",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "585",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1060508",
+    "Supplier name": "General - Food",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "217.9",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1060517",
+    "Supplier name": "סופר קופיקס בע\"מ",
+    "Document Date": "15/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "12.1",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1060520",
+    "Supplier name": "איתמר חכים",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "702",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1060523",
+    "Supplier name": "איתמר חכים",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "117",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1060528",
+    "Supplier name": "דרך היין מרכז לתרבות היין",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "219.8",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079826",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "704.5",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1079827",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "952.3",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1079828",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1687.65",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1079829",
+    "Supplier name": "תדלק וסע שיווק דלקים בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1188.41",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1079830",
+    "Supplier name": "רי-גו מרקטינג בע\"מ",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4095",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079831",
+    "Supplier name": "שי אשל מערכות מידע ובטחון בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "889",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079833",
+    "Supplier name": "שיפטאורגנייזר בע\"מ ",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "293",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079834",
+    "Supplier name": "תדמור ושות' פרופ' יובל לוי ושו'ת, עורכי דין",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "11632.46",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079835",
+    "Supplier name": "שליו טכנולוגיות מחשוב",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3264",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079846",
+    "Supplier name": "פלאפון תקשורת בע\"מ",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1097.86",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1079847",
+    "Supplier name": "קי.אס.פי. מחשבים חולון בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3185",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1079848",
+    "Supplier name": "קשרים פלוס בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "713",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079849",
+    "Supplier name": "Credimatch Software Ltd",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "468",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079850",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5.9",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079851",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5.9",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079852",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "83.61",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079853",
+    "Supplier name": "חברת פרטנר תקשורת בע\"מ",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "65.44",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1079854",
+    "Supplier name": "CAR2GO",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1818.26",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079855",
+    "Supplier name": "חברת פרטנר תקשורת בע\"מ",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "90105.53",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079866",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5279.3",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079867",
+    "Supplier name": "מיצד פתרונות מחשוב",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1635.5",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079868",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1381.5",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079869",
+    "Supplier name": "ממסרית השקעות ופיננסים בע\"מ",
+    "Document Date": "12/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7605",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079870",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "351",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079871",
+    "Supplier name": "ניר נגר",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "376.8",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079873",
+    "Supplier name": "013 נטוויז'ן בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "0.76",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079874",
+    "Supplier name": " סלקום ישראל בע\"מ",
+    "Document Date": "02/08/2018",
+    "Document Type": "Refund - חשבונית זיכוי",
+    "Total with Tax": "100.55",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1079884",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1640.6",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079886",
+    "Supplier name": "מאה הפקה והוצאה לאור",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "293",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079887",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "11.38",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079888",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1714.47",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079889",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1676.12",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079890",
+    "Supplier name": "סאב-קיי",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "443.17",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079891",
+    "Supplier name": "מוסך ואן מוטורס 2011",
+    "Document Date": "02/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1288",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 1/4 מע\"מ"
+  },
+  {
+    "ID": "1079892",
+    "Supplier name": "לסה ויז'ן בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "398",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079897",
+    "Supplier name": "מהלב המרכז הישראלי לנגישות בתקשורת בע\"מ",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3744",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079899",
+    "Supplier name": " מד 1 אי.סי.-1 (1999) בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6003.47",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079901",
+    "Supplier name": " מד 1 אי.סי.-1 (1999) בע\"מ",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "19575.76",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079906",
+    "Supplier name": "י.פרל ושות' בע\"מ",
+    "Document Date": "05/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9203",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079907",
+    "Supplier name": "טריפל סי מחשוב ענן בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "555",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079908",
+    "Supplier name": "כוכבית פלוס *8077",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.6",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079909",
+    "Supplier name": "חברת החשמל לישראל בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1367.81",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079910",
+    "Supplier name": "טמפו שווק (1981) בע\"מ",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1934.53",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079911",
+    "Supplier name": "חברת החשמל לישראל בע\"מ",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5844.11",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079926",
+    "Supplier name": "דאלאס מוצרי נייר בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "784",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079927",
+    "Supplier name": "וואלי מדבקות בע\"מ",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "110",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079928",
+    "Supplier name": "זיג זג שרותי דיוור ולוגיסטיקה בע\"מ",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3010.4",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079929",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "586.75",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079930",
+    "Supplier name": " וואן סמבה פתרונות מחישוב ותקשורת בע\"מ",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1615",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079931",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "274.95",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079932",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1578.33",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079933",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "368191.67",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079934",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1750.1",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079935",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4124.55",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079946",
+    "Supplier name": "ג.ש. ניצוץ בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8240",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079948",
+    "Supplier name": "דאלאס מוצרי נייר בע\"מ",
+    "Document Date": "12/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "615",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079949",
+    "Supplier name": "גט טראפיק בע\"מ",
+    "Document Date": "10/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "16180",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079950",
+    "Supplier name": "ברינגוז טכנולוגיות בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "147.83",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079951",
+    "Supplier name": "ג'מס מפעלי בירה בע\"מ",
+    "Document Date": "02/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "674",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079952",
+    "Supplier name": "ג'מס מפעלי בירה בע\"מ",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1237",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079953",
+    "Supplier name": "גטר גרופ בע\"מ",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6161.45",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079954",
+    "Supplier name": "גטר גרופ בע\"מ",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8809.67",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079955",
+    "Supplier name": "ביפר תקשורת בע\"מ",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1468",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079956",
+    "Supplier name": "בזק בינלאומי בע\"מ",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "281.34",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079968",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5667",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1079969",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1512",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1079970",
+    "Supplier name": "אורן כרפיס",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "305",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079971",
+    "Supplier name": "אינטרספייס בע\"מ",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "228.15",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": ""
+  },
+  {
+    "ID": "1079972",
+    "Supplier name": "אינטרספייס בע\"מ",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "963.49",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079973",
+    "Supplier name": "אמיר תזרים מזומנים בע\"מ",
+    "Document Date": "11/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "187.2",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079974",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4499",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1079975",
+    "Supplier name": "בזק החברה הישראלית לתקשורת בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "775.03",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079986",
+    "Supplier name": "Xero (NZ) Ltd",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079987",
+    "Supplier name": "WebEx Communications BV",
+    "Document Date": "21/05/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "22.32",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079988",
+    "Supplier name": "WebEx Communications BV",
+    "Document Date": "21/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "22.25",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079989",
+    "Supplier name": "WebEx Communications BV",
+    "Document Date": "21/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "21.87",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079990",
+    "Supplier name": "Voxbone SA",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6448.75",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079991",
+    "Supplier name": "WebEx Communications BV",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "21.87",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079992",
+    "Supplier name": "Voxbone SA",
+    "Document Date": "06/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "15000",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079993",
+    "Supplier name": "אדית פתרונות תוכנה בע\"מ",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5285.69",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1079994",
+    "Supplier name": "Ventatel Limited",
+    "Document Date": "02/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4192.56",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1079995",
+    "Supplier name": "Ventatel Limited",
+    "Document Date": "17/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3507.32",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080006",
+    "Supplier name": "PICREEL LTD",
+    "Document Date": "16/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "69",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1080007",
+    "Supplier name": "TollFreeForwarding.com",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1653.77",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080008",
+    "Supplier name": "Telserv B.V.",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1202.09",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": ""
+  },
+  {
+    "ID": "1080009",
+    "Supplier name": "Palo Alto Software, Inc.",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "19.95",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080010",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10481.6",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080011",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "738.38",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080012",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "15976.16",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080013",
+    "Supplier name": "Unfuddle LLC",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "69",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080014",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "835.31",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080024",
+    "Supplier name": "Mailchimp",
+    "Document Date": "03/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080025",
+    "Supplier name": "Keymetrics SAS",
+    "Document Date": "02/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "65",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080026",
+    "Supplier name": "Mailchimp",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080027",
+    "Supplier name": "Mailchimp",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080028",
+    "Supplier name": "Mailchimp",
+    "Document Date": "10/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "95",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080029",
+    "Supplier name": "Mailchimp",
+    "Document Date": "14/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080030",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1836.46",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080031",
+    "Supplier name": "MET international",
+    "Document Date": "08/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "16512",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080040",
+    "Supplier name": "LeaseWeb Netherlands B.V",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.65",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080041",
+    "Supplier name": "LeaseWeb Netherlands B.V",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "357.52",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080044",
+    "Supplier name": "IDT Domestic Telecom, Inc.",
+    "Document Date": "23/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20000",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080045",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2068.68",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080046",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1730.64",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080047",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "423.07",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1080048",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1243.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1080049",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2461.9",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1080050",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2010.52",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080051",
+    "Supplier name": "JetBrains s.r.o.",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "64.9",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080052",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "11929.32",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080053",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "277.01",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1080064",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "254.5",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080065",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "452.13",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080066",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10724.77",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080067",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7037.4",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080068",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7460.81",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080069",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8175.41",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080070",
+    "Supplier name": "GTmetrix",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "14.95",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080079",
+    "Supplier name": "Google Inc.",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080080",
+    "Supplier name": "Google Inc.",
+    "Document Date": "04/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080084",
+    "Supplier name": "Google Inc.",
+    "Document Date": "23/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080085",
+    "Supplier name": "Google Inc.",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080086",
+    "Supplier name": "Google Inc.",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "39",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080087",
+    "Supplier name": "Google Inc.",
+    "Document Date": "10/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080088",
+    "Supplier name": "Google Inc.",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080089",
+    "Supplier name": "Google Inc.",
+    "Document Date": "24/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080090",
+    "Supplier name": "Google Inc.",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080091",
+    "Supplier name": "Google Inc.",
+    "Document Date": "06/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080092",
+    "Supplier name": "Google Inc.",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080093",
+    "Supplier name": "Google Inc.",
+    "Document Date": "05/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "80",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080104",
+    "Supplier name": "freepik company",
+    "Document Date": "05/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9.99",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080105",
+    "Supplier name": "freepik company",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "44.99",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080106",
+    "Supplier name": "freepik company",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9.99",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080107",
+    "Supplier name": "dotcom-monitor",
+    "Document Date": "02/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "144.77",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080108",
+    "Supplier name": "DREAM BRIDGE SOLUTIONS S.R.L.",
+    "Document Date": "03/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3500",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080109",
+    "Supplier name": "Google Inc.",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080110",
+    "Supplier name": "Google Inc.",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080111",
+    "Supplier name": "Google Inc.",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080112",
+    "Supplier name": "Google Inc.",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080113",
+    "Supplier name": "ג'יטי גטאקסי סרוויסס ישראל בע\"מ",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2459",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1080124",
+    "Supplier name": "Domain.com",
+    "Document Date": "22/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "17.98",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080125",
+    "Supplier name": "didXL SP. z o.o.",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3277.27",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "פ"
+  },
+  {
+    "ID": "1080126",
+    "Supplier name": "DIDWW Ireland LTD",
+    "Document Date": "01/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "14",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080127",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "15/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "10",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080128",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "15/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "3.99",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080129",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "16/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "23.75",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080130",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "14/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "50",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080131",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "13/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "62.5",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080132",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "15/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "12.5",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080133",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "15/08/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "12.5",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080144",
+    "Supplier name": "bics",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10000",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "פ"
+  },
+  {
+    "ID": "1080146",
+    "Supplier name": "Amazon Web Services, Inc",
+    "Document Date": "03/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3524.52",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080147",
+    "Supplier name": "Communications Global Network Services Ltd.",
+    "Document Date": "02/08/2018",
+    "Document Type": "OTHER",
+    "Total with Tax": "8157.42",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080148",
+    "Supplier name": "DID LOGIC LIMITED",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9919.68",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080156",
+    "Supplier name": "עיריית תל אביב יפו",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "354.6",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080158",
+    "Supplier name": "עיריית תל אביב יפו",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "437.33",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080160",
+    "Supplier name": "עיריית תל אביב יפו",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5797.89",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080162",
+    "Supplier name": "עיריית תל אביב יפו",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4767.16",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1080164",
+    "Supplier name": "עיריית תל אביב יפו",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "13727.45",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089425",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "02/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089426",
+    "Supplier name": "אקספון 018 בע\"מ",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "125",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089427",
+    "Supplier name": "אקספון 018 בע\"מ",
+    "Document Date": "31/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "125",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089428",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "28/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089429",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089430",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089431",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "01/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089432",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "28/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089441",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "27/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "21",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089442",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "27/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089445",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089446",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "21",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089447",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "09/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089448",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089449",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089450",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "07/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "12",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089451",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089452",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089453",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "06/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "45",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089454",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089465",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "14/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089466",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089467",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "17/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089468",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089469",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "17/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089470",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "16/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089471",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "17/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089472",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089481",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "11/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089482",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "12/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089487",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089488",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089490",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "25/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089491",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "22/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089492",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "19/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089493",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "27",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089494",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "23/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089495",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "17/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089496",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "18/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089498",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "24/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089507",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "22",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089508",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089509",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089510",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089511",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089512",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "02/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "80",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089513",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089514",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089515",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089516",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089529",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089530",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "16",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089531",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "07/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "18",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089532",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "08/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089533",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "08/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089534",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "08/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "60",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089535",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089536",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "25",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089537",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "22",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089538",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "09/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089549",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089550",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089551",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089552",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089553",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089554",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089555",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089556",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089557",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089558",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "10/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089571",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089572",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089573",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089574",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "19/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089575",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089576",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089577",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089578",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "39",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089579",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089580",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "15/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "80",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089593",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "22/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089594",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "23/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089595",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "22/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089596",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "22/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "50",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089597",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "30",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089598",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089599",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089600",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "23/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089601",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089602",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "21/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089613",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089614",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089615",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "28/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089616",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089617",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089618",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089619",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089620",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089621",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089622",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089633",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089634",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089635",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089636",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "12",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089637",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089638",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "30/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089639",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089641",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089648",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089650",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089653",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089654",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089655",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089656",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089657",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "32",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089658",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089659",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089660",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089661",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089662",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089673",
+    "Supplier name": "Ariafone Telekom Ltd.",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "12166.98",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089675",
+    "Supplier name": "bics",
+    "Document Date": "27/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5000",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "פ"
+  },
+  {
+    "ID": "1089676",
+    "Supplier name": "Amazon Web Services, Inc",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3631.75",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089677",
+    "Supplier name": "Communication Global Network Services (BT) Ltd",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7120.84",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089678",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089679",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "16/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089680",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089681",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089682",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "14/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "25",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089693",
+    "Supplier name": "didXL SP. z o.o.",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4072.03",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089694",
+    "Supplier name": "Domain.com",
+    "Document Date": "09/10/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "11.99",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089695",
+    "Supplier name": "DIDWW Ireland LTD",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "14",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089696",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "14/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "50",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089697",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "15/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "10",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089698",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "16/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "23.75",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089699",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "15/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "3.99",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089700",
+    "Supplier name": "DIDX Inc.",
+    "Document Date": "13/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "62.5",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089701",
+    "Supplier name": "CLICKBENCH LLC",
+    "Document Date": "07/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "90",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089702",
+    "Supplier name": "DID LOGIC LIMITED",
+    "Document Date": "28/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "4939.32",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089713",
+    "Supplier name": "Domain.com",
+    "Document Date": "20/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "11.99",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089714",
+    "Supplier name": "dotcom-monitor",
+    "Document Date": "08/01/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "144.77",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089715",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "20/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089716",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "20/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089717",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089718",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "14/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089719",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "28/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089720",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "21/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "7.6",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089722",
+    "Supplier name": "ג'יטי גטאקסי סרוויסס ישראל בע\"מ",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "845",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089733",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "24/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089734",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "07/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089736",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "13/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089737",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "04/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089738",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "10/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089739",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "06/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089740",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "06/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089741",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "26/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "39",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089742",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "23/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089753",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8668.24",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089754",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "10/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7619.45",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089755",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "11678.27",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089756",
+    "Supplier name": "iBasis Netherlands B.V",
+    "Document Date": "24/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10961.78",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089757",
+    "Supplier name": "IDT Domestic Telecom, Inc.",
+    "Document Date": "23/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "10000",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089758",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "420.83",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089759",
+    "Supplier name": "Google Ireland Limited",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "0.38",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089760",
+    "Supplier name": "GTmetrix",
+    "Document Date": "07/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "14.95",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089762",
+    "Supplier name": "IP Telecom Bulgaria LTD",
+    "Document Date": "27/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "700",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089773",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "27/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "307.94",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089774",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "16857.36",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089775",
+    "Supplier name": "JetBrains s.r.o.",
+    "Document Date": "09/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "64.9",
+    "Currency of Document": "USD",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089776",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1490.07",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089777",
+    "Supplier name": "JetBrains s.r.o.",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "199",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089778",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2215.03",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089779",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2845.42",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089780",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1239.26",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089781",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "09/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2379.31",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089782",
+    "Supplier name": "I.T.C. IP Technologies Ltd",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "712.86",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089793",
+    "Supplier name": "Mailchimp",
+    "Document Date": "09/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "95",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089794",
+    "Supplier name": "Mailchimp",
+    "Document Date": "16/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089795",
+    "Supplier name": "Mailchimp",
+    "Document Date": "04/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089796",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "10/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2053.91",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089797",
+    "Supplier name": "Keymetrics SAS",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "65",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089798",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "24/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1582.2",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089799",
+    "Supplier name": "Kaktus telecom limited",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1973.43",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089800",
+    "Supplier name": "LeaseWeb Netherlands B.V",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "361.12",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089801",
+    "Supplier name": "LeaseWeb Netherlands B.V",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.65",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089802",
+    "Supplier name": "M2 מחשבים",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "400",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1089813",
+    "Supplier name": "Mailchimp",
+    "Document Date": "26/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089814",
+    "Supplier name": "Mailchimp",
+    "Document Date": "19/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "20",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089815",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089816",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089817",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/05/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089818",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089819",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089820",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/04/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089821",
+    "Supplier name": "Monday.com Ltd.",
+    "Document Date": "03/03/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "96",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089822",
+    "Supplier name": "Palo Alto Software, Inc.",
+    "Document Date": "16/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "19.95",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089833",
+    "Supplier name": "TelServe",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1238.12",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089834",
+    "Supplier name": "PICREEL LTD",
+    "Document Date": "08/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "69",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089835",
+    "Supplier name": "Unfuddle LLC",
+    "Document Date": "20/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "69",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089837",
+    "Supplier name": "Patreon",
+    "Document Date": "02/09/2018",
+    "Document Type": "RECEIPT",
+    "Total with Tax": "200",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089838",
+    "Supplier name": "ReadonlyREST Security",
+    "Document Date": "14/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2673",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089839",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "563.7",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089840",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8275.74",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089841",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "15/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "11734.12",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089842",
+    "Supplier name": "telemondo PTE.LTD",
+    "Document Date": "15/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "643.67",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089853",
+    "Supplier name": "Xero (NZ) Ltd",
+    "Document Date": "09/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "40",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089854",
+    "Supplier name": "WebEx Communications BV",
+    "Document Date": "21/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "22.39",
+    "Currency of Document": "USD",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089856",
+    "Supplier name": "Voxbone SA",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6500.6",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089857",
+    "Supplier name": "Ventatel Limited",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "6165.34",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089858",
+    "Supplier name": "אינטרספייס בע\"מ",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1191.65",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089859",
+    "Supplier name": "פקס חוזר 2000 בע\"מ",
+    "Document Date": "14/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3510",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089860",
+    "Supplier name": "Ventatel Limited",
+    "Document Date": "16/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5145.09",
+    "Currency of Document": "USD",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089861",
+    "Supplier name": "אור שי - סיטונאות חשמל בע\"מ",
+    "Document Date": "23/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "324",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089862",
+    "Supplier name": "פקס חוזר 2000 בע\"מ",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3510",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089873",
+    "Supplier name": "פקס חוזר 2000 בע\"מ",
+    "Document Date": "27/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3510",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089874",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "25/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "732",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089875",
+    "Supplier name": "ארגוקום בע\"מ",
+    "Document Date": "25/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "8047",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089876",
+    "Supplier name": "ג'מס מפעלי בירה בע\"מ",
+    "Document Date": "03/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2705",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089877",
+    "Supplier name": "אסף רון",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7195.5",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089878",
+    "Supplier name": "אמיר תזרים מזומנים בע\"מ",
+    "Document Date": "11/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "187.2",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089879",
+    "Supplier name": "ביפר תקשורת בע\"מ",
+    "Document Date": "16/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1447",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089880",
+    "Supplier name": "בזק החברה הישראלית לתקשורת בע\"מ",
+    "Document Date": "26/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "786.64",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089882",
+    "Supplier name": "פקס חוזר 2000 בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "3510",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089895",
+    "Supplier name": "גימיקים מוצרי פרסום",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "21674",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089896",
+    "Supplier name": "הזעקה האחרונה שמירה ומיגון בע\"מ",
+    "Document Date": "14/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "61",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089897",
+    "Supplier name": "גט טראפיק בע\"מ",
+    "Document Date": "10/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "16180",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089898",
+    "Supplier name": " וואן סמבה פתרונות מחישוב ותקשורת בע\"מ",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1615",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1089899",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "274.95",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089900",
+    "Supplier name": "הוט טלקום שותפות מוגבלת",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "979750.09",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089901",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5018.48",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089902",
+    "Supplier name": "הוט מובייל בע\"מ",
+    "Document Date": "14/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1749.15",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089913",
+    "Supplier name": "י.פרל ושות' בע\"מ",
+    "Document Date": "05/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "9203",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089914",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "115.55",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089915",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1667.03",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089916",
+    "Supplier name": "כוכבית פלוס *8077",
+    "Document Date": "01/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "678.6",
+    "Currency of Document": "ILS",
+    "Paid": "",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089917",
+    "Supplier name": "לחמים – מאפייה ואספרסו בר בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1710",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089918",
+    "Supplier name": "זיג זג שרותי דיוור ולוגיסטיקה בע\"מ",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2261.6",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089919",
+    "Supplier name": "ח.כ דלתא פתרונות פיננסיים בע\"מ",
+    "Document Date": "16/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "321.75",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089920",
+    "Supplier name": "טמפו שווק (1981) בע\"מ",
+    "Document Date": "27/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1895.33",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089921",
+    "Supplier name": "חיון מחשבים בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20142.71",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא - תשומות ציוד"
+  },
+  {
+    "ID": "1089922",
+    "Supplier name": "חברת החשמל לישראל בע\"מ",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5066.54",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089932",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "36.47",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089933",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "06/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "129.73",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089934",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1676.13",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089935",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1714.46",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089937",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2567.55",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089938",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1668.66",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089939",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "343.06",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089940",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "360.08",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089941",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "17/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "97.13",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089942",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "551.85",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089953",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5279.3",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089954",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1381.5",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089955",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "2570.08",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089956",
+    "Supplier name": "ליסקאר רם בע\"מ",
+    "Document Date": "20/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "552.48",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089957",
+    "Supplier name": "ממסרית השקעות ופיננסים בע\"מ",
+    "Document Date": "13/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7605",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089958",
+    "Supplier name": "מיטב ניקיון ואחזקה בע\"מ",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1640.6",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089959",
+    "Supplier name": " מד 1 אי.סי.-1 (1999) בע\"מ",
+    "Document Date": "30/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "5934.1",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089960",
+    "Supplier name": "מהלב המרכז הישראלי לנגישות בתקשורת בע\"מ",
+    "Document Date": "12/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "7488",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089961",
+    "Supplier name": "013 נטוויז'ן בע\"מ",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "10.18",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089966",
+    "Supplier name": "לסה ויז'ן בע\"מ",
+    "Document Date": "20/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "398",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089973",
+    "Supplier name": "פלאפון תקשורת בע\"מ",
+    "Document Date": "21/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "1109.76",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1089974",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "03/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089975",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "26/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089976",
+    "Supplier name": "פיין סנטר בע\"מ",
+    "Document Date": "21/06/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089977",
+    "Supplier name": "פיס אוף קייק",
+    "Document Date": "27/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "252.8",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089978",
+    "Supplier name": "PowerLink Software LTD",
+    "Document Date": "04/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "13357",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089979",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "04/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089980",
+    "Supplier name": "013 נטוויז'ן בע\"מ",
+    "Document Date": "03/10/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "12.39",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089981",
+    "Supplier name": "נספרסו ישראל בע\"מ",
+    "Document Date": "07/10/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "0",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "מע\"מ 0%"
+  },
+  {
+    "ID": "1089982",
+    "Supplier name": " סלקום ישראל בע\"מ",
+    "Document Date": "02/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "150.54",
+    "Currency of Document": "ILS",
+    "Paid": "Unknown",
+    "Entry Code": "חס - 2/3 מע\"מ"
+  },
+  {
+    "ID": "1089993",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "10/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089994",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "11/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089995",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "30/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089996",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "29/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089997",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "31/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089998",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "27/08/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "33",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1089999",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "05/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1090000",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "13/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "71",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1090001",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "08/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1090002",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "09/07/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1090013",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "25/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  },
+  {
+    "ID": "1090014",
+    "Supplier name": "פנגו פיי אנד גו בע\"מ",
+    "Document Date": "25/09/2018",
+    "Document Type": "INVOICE",
+    "Total with Tax": "20",
+    "Currency of Document": "ILS",
+    "Paid": "Paid",
+    "Entry Code": "חס - מע\"מ מלא"
+  }
+]
