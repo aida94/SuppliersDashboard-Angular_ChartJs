@@ -1,9 +1,9 @@
-// console.log(a.replace(/ /g, '_'))
+
 import { SupplierData } from './../../supplier';
 import { TotalSupplierService } from './../../services/total-supplier.service';
 import { Component, OnInit } from '@angular/core';
 import { Chart } from 'chart.js';
-
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-total-suppliers',
@@ -13,12 +13,15 @@ import { Chart } from 'chart.js';
 export class TotalSuppliersComponent implements OnInit {
   private req: any;
   supplierData: [SupplierData];
-  chart = [];
+  chart:any;
   monthlyExpenses = {};
   selectedMonth: string = '';
-  filterByMonth = [] ;
+  filterByMonth = [];
+  chosenSupplier: any ;
 
-  constructor( private totalSuppliers: TotalSupplierService) { }
+  constructor( 
+    private totalSuppliers: TotalSupplierService,
+    private router: Router ) { }
 
   ngOnInit() {
     this.req = this.totalSuppliers.getData().subscribe( data => {
@@ -29,7 +32,6 @@ export class TotalSuppliersComponent implements OnInit {
   // filter data by month and calculate totals by supplier name
   generateMonthlyExpenses(month) {
     this.filterByMonth = this.supplierData.filter(supplier => supplier['Document Date'].split('/')[1] === month);
-    console.log(this.filterByMonth);
     this.monthlyExpenses = this.filterByMonth.reduce((acc, supplier) => {
       if (acc[supplier['Supplier name']]) {
         acc[supplier['Supplier name']] = acc[supplier['Supplier name']] + parseFloat(supplier['Total with Tax']);
@@ -57,7 +59,7 @@ export class TotalSuppliersComponent implements OnInit {
       data: {
           labels: Object.keys(this.monthlyExpenses),
           datasets: [{
-              label: 'Amout of suppliers',
+              label: Object.keys(this.monthlyExpenses),
               data: Object.values(this.monthlyExpenses),
               backgroundColor: Object.keys(this.monthlyExpenses).map(e => this.genereateRandomColor ()),
           }]
@@ -72,5 +74,12 @@ export class TotalSuppliersComponent implements OnInit {
     this.generateMonthlyExpenses(this.selectedMonth);
     this.initPieChar();
   }
+
+  showData(evt:any){
+    var data = this.chart.getElementsAtEvent(evt)
+    this.chosenSupplier = data[0]._model.label.replace(/ /g, '_');
+    this.router.navigateByUrl('/details/'+this.chosenSupplier);
+    //console.log(this.chosenSupplier);
+   }
 
 }

@@ -30,7 +30,5 @@
 </div>
 
 <div *ngIf="filterByMonth">
-  <canvas id="canvas">{{ chart }}</canvas>
+  <canvas id="canvas" #mychart (click)="showData($event)" class="chartjs-render-monitor">{{ chart }}</canvas>
 </div>
-
-

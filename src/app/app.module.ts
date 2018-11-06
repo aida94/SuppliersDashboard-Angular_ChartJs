@@ -8,6 +8,9 @@ import { FooterComponent } from './components/footer/footer.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { TotalSuppliersComponent } from './components/total-suppliers/total-suppliers.component';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
+import { SupplierDetailsComponent } from './components/supplier-details/supplier-details.component';
+import { AppRoutingModule } from './app-routing.module';
+import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 
 @NgModule({
   declarations: [
@@ -15,12 +18,15 @@ import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
     FooterComponent,
     NavbarComponent,
     TotalSuppliersComponent,
+    SupplierDetailsComponent,
+    PageNotFoundComponent,
   ],
   imports: [
     BrowserModule,
     HttpModule,
     FormsModule,
-    BsDropdownModule.forRoot()
+    BsDropdownModule.forRoot(),
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
