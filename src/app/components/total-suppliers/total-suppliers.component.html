@@ -22,10 +22,15 @@
         <option value="12">December</option>
     </select>
   </div>
-  
+
 </div>
 
-<div>
+<div *ngIf="!filterByMonth.length > 0">
+  <p >Data Not Available</p>
+</div>
+
+<div *ngIf="filterByMonth">
   <canvas id="canvas">{{ chart }}</canvas>
 </div>
+
 

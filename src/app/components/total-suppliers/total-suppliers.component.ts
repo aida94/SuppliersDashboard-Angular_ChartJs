@@ -16,6 +16,7 @@ export class TotalSuppliersComponent implements OnInit {
   chart = [];
   monthlyExpenses = {};
   selectedMonth: string = '';
+  filterByMonth = [] ;
 
   constructor( private totalSuppliers: TotalSupplierService) { }
 
@@ -27,8 +28,9 @@ export class TotalSuppliersComponent implements OnInit {
 
   // filter data by month and calculate totals by supplier name
   generateMonthlyExpenses(month) {
-    const filterByMonth = this.supplierData.filter(supplier => supplier['Document Date'].split('/')[1] === month);
-    this.monthlyExpenses = filterByMonth.reduce((acc, supplier) => {
+    this.filterByMonth = this.supplierData.filter(supplier => supplier['Document Date'].split('/')[1] === month);
+    console.log(this.filterByMonth);
+    this.monthlyExpenses = this.filterByMonth.reduce((acc, supplier) => {
       if (acc[supplier['Supplier name']]) {
         acc[supplier['Supplier name']] = acc[supplier['Supplier name']] + parseFloat(supplier['Total with Tax']);
         return acc;
