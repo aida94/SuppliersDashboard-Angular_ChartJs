@@ -1,8 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from "@angular/router";
+import { ActivatedRoute } from '@angular/router';
 import { TotalSupplierService } from './../../services/total-supplier.service';
 import { SupplierData } from './../../supplier';
 import { Chart } from 'chart.js';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-supplier-details',
@@ -12,64 +13,65 @@ import { Chart } from 'chart.js';
 export class SupplierDetailsComponent implements OnInit {
   private req: any;
   supplierData: [SupplierData];
-  chart:any;
+  chart: any;
   supplierMonth = {};
   supplierName: any;
   filterBySupplier = [];
+  suppliers: any;
 
-  constructor( 
+  constructor(
     private totalSuppliers: TotalSupplierService,
-    private route: ActivatedRoute ) { }
+    private route: ActivatedRoute,
+    private router: Router ) {
+      this.route.params.subscribe( params => console.log(params));
+    }
 
   ngOnInit() {
-    this.supplierName = this.route.snapshot.paramMap.get("name").replace(/_/g, ' ');
+    this.supplierName = this.route.snapshot.paramMap.get('name').replace(/_/g, ' ');
     this.req = this.totalSuppliers.getData().subscribe( data => {
       this.supplierData = data;
-      this.generateSupplier(this.supplierName); 
-      
-     }); 
+      this.generateSupplier(this.supplierName);
+      this.initPieChar();
+      this.getSuppliers();
+     });
 
-     this.initPieChar();
+  }
+
+  getSuppliers() {
+    this.suppliers = new Set(...[this.supplierData.map(supplier => supplier['Supplier name'])]);
   }
 
   generateSupplier(name) {
-     this.filterBySupplier = this.supplierData.filter(supplier => supplier['Supplier name']=== name); 
-     this.supplierMonth = this.filterBySupplier.reduce((acc, supplier) => {      
+     this.filterBySupplier = this.supplierData.filter(supplier => supplier['Supplier name'] === name);
+     this.supplierMonth = this.filterBySupplier.reduce((acc, supplier) => {
+      if (acc[supplier['Document Date']]) {
+        acc[supplier['Document Date']] = acc[supplier['Document Date']] + parseFloat(supplier['Total with Tax']);
+        return acc;
+      }
       acc[supplier['Document Date']] = parseFloat(supplier['Total with Tax']);
       return acc;
     }, {});
-
-    console.log(this.supplierMonth);
-     
-  }
- 
-  //generate a random color for chart backgroundColor
-  genereateRandomColor() {
-    const letters = '0123456789ABCDEF';
-    let color = '#';
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
   }
 
-  //chart.js
+  // chart.js
   initPieChar() {
-
     this.chart = new Chart('canvas', {
       type: 'bar',
       data: {
         labels: Object.keys(this.supplierMonth),
         datasets: [{
-            label: Object.keys(this.supplierMonth),
+            label: this.supplierName,
             data: Object.values(this.supplierMonth),
-            backgroundColor: Object.keys(this.supplierMonth).map(e => this.genereateRandomColor ()),
         }]
     },
     options: {}
     });
   }
 
+  changeName (event: any) {
+    this.router.navigate(['/details/', event.target.value.replace(/ /g, '_')]);
+    window.location.reload();
+  }
 }
 
 

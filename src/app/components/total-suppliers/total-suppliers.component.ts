@@ -13,13 +13,13 @@ import { Router } from '@angular/router';
 export class TotalSuppliersComponent implements OnInit {
   private req: any;
   supplierData: [SupplierData];
-  chart:any;
+  chart: any;
   monthlyExpenses = {};
-  selectedMonth: string = '';
+  selectedMonth = '';
   filterByMonth = [];
   chosenSupplier: any ;
 
-  constructor( 
+  constructor(
     private totalSuppliers: TotalSupplierService,
     private router: Router ) { }
 
@@ -42,7 +42,7 @@ export class TotalSuppliersComponent implements OnInit {
     }, {});
   }
 
-  //generate a random color for chart backgroundColor
+  // generate a random color for chart backgroundColor
   genereateRandomColor() {
     const letters = '0123456789ABCDEF';
     let color = '#';
@@ -52,7 +52,7 @@ export class TotalSuppliersComponent implements OnInit {
     return color;
   }
 
-  //chart.js
+  // chart.js
   initPieChar() {
     this.chart = new Chart('canvas', {
       type: 'pie',
@@ -68,18 +68,17 @@ export class TotalSuppliersComponent implements OnInit {
     });
   }
 
-  //show data by month
+  // show data by month
   getMonth (event: any) {
     this.selectedMonth = event.target.value;
     this.generateMonthlyExpenses(this.selectedMonth);
     this.initPieChar();
   }
 
-  showData(evt:any){
-    var data = this.chart.getElementsAtEvent(evt)
+  showData(evt: any) {
+    const data = this.chart.getElementsAtEvent(evt);
     this.chosenSupplier = data[0]._model.label.replace(/ /g, '_');
-    this.router.navigateByUrl('/details/'+this.chosenSupplier);
-    //console.log(this.chosenSupplier);
+    this.router.navigateByUrl('/details/' + this.chosenSupplier);
    }
 
 }

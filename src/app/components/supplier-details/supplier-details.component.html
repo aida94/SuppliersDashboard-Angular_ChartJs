@@ -4,18 +4,19 @@
 
 <div class="row">
 
-  <div class="col-5">
-    <h3 class="m-3"> Show Supplier data</h3>
+  <div class="col-6">
+    <h3 class="m-3"> Show {{ supplierName }} data</h3>
   </div>
 
-  <div class="col-5 m-3">
-    <select >
+  <div class="col-6 m-3">
+    <select (change)="changeName($event)">
         <option value="00">Choose a Supplier</option>
+        <option  *ngFor="let supplier of suppliers" value="{{ supplier }}">{{ supplier }}</option>
     </select>
   </div>
 
 </div>
-{{ supplierName }}
+
 
 <div>
   <canvas id="canvas">{{ chart }}</canvas>
