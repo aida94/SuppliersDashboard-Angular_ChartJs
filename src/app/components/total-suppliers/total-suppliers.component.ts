@@ -26,6 +26,9 @@ export class TotalSuppliersComponent implements OnInit {
   ngOnInit() {
     this.req = this.totalSuppliers.getData().subscribe( data => {
     this.supplierData = data;
+    this.totalSuppliers.currentMonth.subscribe(message => this.selectedMonth = message);
+    this.generateMonthlyExpenses(this.selectedMonth);
+    this.initPieChar();
    });
   }
 
@@ -42,16 +45,6 @@ export class TotalSuppliersComponent implements OnInit {
     }, {});
   }
 
-  // generate a random color for chart backgroundColor
-  genereateRandomColor() {
-    const letters = '0123456789ABCDEF';
-    let color = '#';
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-  }
-
   // chart.js
   initPieChar() {
     this.chart = new Chart('canvas', {
@@ -61,7 +54,7 @@ export class TotalSuppliersComponent implements OnInit {
           datasets: [{
               label: Object.keys(this.monthlyExpenses),
               data: Object.values(this.monthlyExpenses),
-              backgroundColor: Object.keys(this.monthlyExpenses).map(e => this.genereateRandomColor ()),
+              backgroundColor: Object.keys(this.monthlyExpenses).map(e => this.totalSuppliers.genereateRandomColor()),
           }]
       },
       options: {}

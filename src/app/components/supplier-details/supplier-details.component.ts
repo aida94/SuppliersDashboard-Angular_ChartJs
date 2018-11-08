@@ -15,16 +15,29 @@ export class SupplierDetailsComponent implements OnInit {
   supplierData: [SupplierData];
   chart: any;
   supplierMonth = {};
+  months = {
+    '01': 'January',
+    '02': 'February',
+    '03': 'March',
+    '04': 'April',
+    '05': 'May',
+    '06': 'June',
+    '07': 'July',
+    '08': 'August',
+    '09': 'September',
+    '10': 'October',
+    '11': 'November',
+    '12': 'December'
+  };
   supplierName: any;
   filterBySupplier = [];
   suppliers: any;
+  month: string;
 
   constructor(
     private totalSuppliers: TotalSupplierService,
     private route: ActivatedRoute,
-    private router: Router ) {
-      this.route.params.subscribe( params => console.log(params));
-    }
+    private router: Router ) {}
 
   ngOnInit() {
     this.supplierName = this.route.snapshot.paramMap.get('name').replace(/_/g, ' ');
@@ -34,7 +47,7 @@ export class SupplierDetailsComponent implements OnInit {
       this.initPieChar();
       this.getSuppliers();
      });
-
+     this.totalSuppliers.currentMonth.subscribe(message => this.month = message);
   }
 
   getSuppliers() {
@@ -44,11 +57,12 @@ export class SupplierDetailsComponent implements OnInit {
   generateSupplier(name) {
      this.filterBySupplier = this.supplierData.filter(supplier => supplier['Supplier name'] === name);
      this.supplierMonth = this.filterBySupplier.reduce((acc, supplier) => {
-      if (acc[supplier['Document Date']]) {
-        acc[supplier['Document Date']] = acc[supplier['Document Date']] + parseFloat(supplier['Total with Tax']);
+      if (acc[supplier['Document Date'].split('/')[1]]) {
+        // tslint:disable-next-line:max-line-length
+        acc[supplier['Document Date'].split('/')[1]] = acc[supplier['Document Date'].split('/')[1]] + parseFloat(supplier['Total with Tax']);
         return acc;
       }
-      acc[supplier['Document Date']] = parseFloat(supplier['Total with Tax']);
+      acc[supplier['Document Date'].split('/')[1]] = parseFloat(supplier['Total with Tax']);
       return acc;
     }, {});
   }
@@ -60,8 +74,9 @@ export class SupplierDetailsComponent implements OnInit {
       data: {
         labels: Object.keys(this.supplierMonth),
         datasets: [{
-            label: this.supplierName,
+            label: Object.keys(this.supplierMonth),
             data: Object.values(this.supplierMonth),
+            backgroundColor: Object.keys(this.supplierMonth).map(e => this.totalSuppliers.genereateRandomColor()),
         }]
     },
     options: {}
@@ -71,6 +86,15 @@ export class SupplierDetailsComponent implements OnInit {
   changeName (event: any) {
     this.router.navigate(['/details/', event.target.value.replace(/ /g, '_')]);
     window.location.reload();
+  }
+  showData(evt: any) {
+    const data = this.chart.getElementsAtEvent(evt);
+    this.router.navigateByUrl('/dashboard');
+    this.newMonth(data[0]._model.label);
+   }
+
+   newMonth(month) {
+    this.totalSuppliers.changeMonth(month);
   }
 }
 
