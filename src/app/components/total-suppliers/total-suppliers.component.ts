@@ -18,6 +18,20 @@ export class TotalSuppliersComponent implements OnInit {
   selectedMonth = '';
   filterByMonth = [];
   chosenSupplier: any ;
+  mapMonth = {
+    'January': '01',
+    'February': '02',
+    'March': '03',
+    'April': '04',
+    'May': '05',
+    'June': '06',
+    'July': '07',
+    'August': '08',
+    'September': '09',
+    'October': '10',
+    'November': '11',
+    'Decemeber': '12'
+  };
 
   constructor(
     private totalSuppliers: TotalSupplierService,
@@ -27,7 +41,7 @@ export class TotalSuppliersComponent implements OnInit {
     this.req = this.totalSuppliers.getData().subscribe( data => {
     this.supplierData = data;
     this.totalSuppliers.currentMonth.subscribe(message => this.selectedMonth = message);
-    this.generateMonthlyExpenses(this.selectedMonth);
+    this.generateMonthlyExpenses(this.mapMonth[this.selectedMonth]);
     this.initPieChar();
    });
   }
@@ -70,7 +84,7 @@ export class TotalSuppliersComponent implements OnInit {
 
   showData(evt: any) {
     const data = this.chart.getElementsAtEvent(evt);
-    this.chosenSupplier = data[0]._model.label.replace(/ /g, '_');
+    this.chosenSupplier = data[0]._model.label.replace(/ /g, '_').replace(/\./g, '-');
     this.router.navigateByUrl('/details/' + this.chosenSupplier);
    }
 
